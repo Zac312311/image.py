@@ -1,2 +1,0 @@
-# image.py
-Image
